@@ -25,8 +25,6 @@ description: "「离开世界之前 一切都是过程」"
     <p class="post-meta">
         Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
     </p>
-    <button class="like-btn" data-post-id="{{ post.id }}">点赞</button>
-    <span class="like-count" id="like-count-{{ post.id }}"></span> 人赞过
 </div>
 <hr>
 {% endfor %}

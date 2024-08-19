@@ -1,5 +1,14 @@
+---
+layout:       post
+title:        "template"
+author:       "shensunbo"
+header-style: text
+catalog:      true
+tags:
+    - template
+---
 
-**Week [8.19 - 8.25] - [2024]**
+**Week [Week Number] - [Year]**
 =============================
 
 ### Tasks

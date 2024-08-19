@@ -5,7 +5,7 @@ header-img: img/bg-little-universe.jpg
 email: shensunbo@foxmail.com
 description: "Just Do It"
 keyword: "Just Do It"
-url: "https://shensunbo.github.io/Just_Do_It/" # your host, for absolute URL
+url: "https://shensunbo.github.io/Just_Do_It" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,8 +15,6 @@ future: true
 RSS: false
 email: shensunbo@foxmail.com
 wechat: shensunbo
-#facebook_username:  shensunbopro
-#linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.

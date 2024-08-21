@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "my learn plan"
+title:        "shensunbo week1"
 author:       "shensunbo"
 header-style: text
 catalog:      true

@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "test"
+title:        "somepeople"
 author:       "some people learn plan"
 header-style: text
 catalog:      true

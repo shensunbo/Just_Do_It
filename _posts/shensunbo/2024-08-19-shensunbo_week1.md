@@ -19,7 +19,7 @@ tags:
 ### Progress
 
 * **Day 1**: 查看Google状态机相关文档，仓库更新了一个基础版状态机[https://github.com/shensunbo/state_machine_complete](https://github.com/shensunbo/state_machine_complete)
-
+* **Day 1**: java 基本概念学习 [https://github.com/shensunbo/learn_java](https://github.com/shensunbo/learn_java)
 ### Reflection
 
 * TODO
